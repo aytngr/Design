@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_search.png.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\layout_card.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\layout\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_tab_indicator_default.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\tab_indicator_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_user.png.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_breakfast.png.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\breakfast.png"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-pngs-21:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.designsapp-merged_res-26:/drawable_exit.png.flat",
+        "source": "com.example.designsapp-main-28:/drawable/exit.png"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_tab_indicator_selected.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\tab_indicator_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_food_bg.jpg.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\food_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable-xxhdpi_food_bg.jpg.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable-xxhdpi\\food_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_filter.png.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\filter.png"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_burger.png.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\burger.png"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_bg_drawable.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\bg_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable-v24_edit.png.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable-v24\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_tab_selector.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "com.example.designsapp-merged_res-26:/layout_activity_main.xml.flat",
+        "source": "com.example.designsapp-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_button_drawable.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\button_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\layout_category.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\layout\\category.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_search_layout_drawable.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\search_layout_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-merged_res-26:\\drawable_circle_corner.xml.flat",
+        "source": "C:\\Users\\aytan.garaisayeva\\.gradle\\daemon\\7.3.3\\com.example.designsapp-main-28:\\drawable\\circle_corner.xml"
+    }
+]
